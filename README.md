@@ -23,10 +23,9 @@ Java MidiKeyboard
 Follow this project board to know the latest status of the project: [http://...]([http://...])  
 
 ### How to build
-- Use this github repository: ... 
-- Specify what branch to use for a more stable release or for cutting edge development.  
-- Use InteliJ 11
+- Use this github repository
+- Use the main branch
 - Java Development Kit (JDK) 21 (Temurin OpenJDK)
-- Specify additional library to download if needed 
-- What file and target to compile and run. 
-- What is expected to happen when the app start. 
+- No additional libraries need to be downloaded
+- Compile and run MidiKeyboard.Java
+- A window dialogue will open up, telling you which keys you should press.
