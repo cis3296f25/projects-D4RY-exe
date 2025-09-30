@@ -5,7 +5,8 @@ like to implement an algorithmic music creation tool that implements music theor
 Unlike the majority of DAWs that primarily focus on mixing, I want to create a project that 
 assists with the creation of musical ideas.  
 
-![This is a screenshot.](<img width="289" height="144" alt="image" src="https://github.com/user-attachments/assets/70284c7b-782d-4ba5-b67e-93d6e17f3111" />)
+<img width="286" height="142" alt="Screenshot 2025-09-30 112435" src="https://github.com/user-attachments/assets/37f34e35-433b-44af-a708-cf8dc3bb3bb0" />
+
 # How to run   
 - In PowerShell, make sure you are here: C:\...\DAWry\dawry\src\main\java  
 - To compile:
